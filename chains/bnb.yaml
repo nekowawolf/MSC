@@ -1,0 +1,5 @@
+name: "BNB Chain Mainnet"
+rpc_url: "https://56.rpc.thirdweb.com"
+chain_id: 56
+symbol: "BNB"
+explorer: "https://bscscan.com/tx/"

@@ -1,0 +1,5 @@
+name: "Ethereum Mainnet"
+rpc_url: "https://rpc.ankr.com/eth"
+chain_id: 1
+symbol: "ETH"
+explorer: "https://etherscan.io/tx/"

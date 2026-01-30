@@ -1,0 +1,5 @@
+name: "Sepolia Testnet"
+rpc_url: "https://api.zan.top/eth-sepolia"
+chain_id: 11155111
+symbol: "SEP"
+explorer: "https://sepolia.etherscan.io/tx/"
