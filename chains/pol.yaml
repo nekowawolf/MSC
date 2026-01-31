@@ -1,0 +1,5 @@
+name: "Polygon Mainnet"
+rpc_url: "https://polygon-rpc.com"
+chain_id: 137
+symbol: "POL"
+explorer: "https://polygonscan.com/tx/"

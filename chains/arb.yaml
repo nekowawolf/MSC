@@ -1,0 +1,5 @@
+name: "Arbitrum One Mainnet"
+rpc_url: "https://arbitrum.drpc.org"
+chain_id: 42161
+symbol: "ETH ARB"
+explorer: "https://arbiscan.io/tx/"

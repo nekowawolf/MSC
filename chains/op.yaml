@@ -1,0 +1,5 @@
+name: "OP Mainnet"
+rpc_url: "https://optimism-mainnet.gateway.tatum.io"
+chain_id: 10
+symbol: "ETH OP"
+explorer: "https://optimistic.etherscan.io/tx/"

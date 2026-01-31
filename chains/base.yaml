@@ -1,0 +1,5 @@
+name: "Base Mainnet"
+rpc_url: "https://mainnet.base.org"
+chain_id: 8453
+symbol: "ETH BASE"
+explorer: "https://basescan.org/tx/"
