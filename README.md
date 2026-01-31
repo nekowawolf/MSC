@@ -2,6 +2,8 @@
 
 MultiSendChain (MSC) is a simple and secure tool for sending the same amount of cryptocurrency to multiple addresses in one operation. The application supports multiple blockchain networks and provides a guided, user-friendly command-line interface. MSC is designed to speed up sending crypto to multiple addresses simultaneously while maintaining safety and confirmation steps.
 
+https://github.com/user-attachments/assets/a11b5772-d942-4e1d-88fc-c69691ad287a
+
 ## Available Chains
 
 The project currently includes configuration for the following networks:
